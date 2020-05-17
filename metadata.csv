@@ -1,0 +1,6 @@
+Student,gpa,java.lang.Double,false,true
+Student,name,java.lang.String,false,true
+Student,id,java.lang.Integer,true,true
+Student,gpa,java.lang.Double,false,true
+Student,name,java.lang.String,false,true
+Student,id,java.lang.Integer,true,true
